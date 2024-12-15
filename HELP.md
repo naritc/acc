@@ -1,5 +1,4 @@
 # Getting Started
-mvn -DenvFilePath=/env/local.env -Dflyway.configFiles=flyway.conf flyway:migrate
 
 ### Reference Documentation
 For further reference, please consider the following sections:
